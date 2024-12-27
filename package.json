@@ -1,0 +1,8 @@
+{
+  "name": "balmy-sdk-test",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@balmy/sdk": "latest"
+  }
+}
